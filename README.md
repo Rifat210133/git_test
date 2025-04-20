@@ -1,5 +1,4 @@
 # git_test
+This repositories is created for testing git
 <br>
-this represoretory is created for testing git
-<br>
-Author Md. Rifat Al Hasan
+Author Md. Rifat Al Hasan Student of JUST
